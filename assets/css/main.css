@@ -126,6 +126,11 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
+		a.menu {
+			color: #f6f6f6;
+			border-bottom: 1px dotted #f6f6f6;
+		}		
+
 	strong, b {
 		color: #787878;
 		font-weight: 400;
