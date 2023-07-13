@@ -144,8 +144,12 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
+	p.works {
+		width: 90%;
+	}
+
 	p.header {
-		margin: 0 0 0.1em 0;
+		margin: 0 0 0.09em 0;
 	}	
 	
 
@@ -174,6 +178,10 @@ input, select, textarea {
 	h3 {
 		font-size: 1.25em;
 		line-height: 1.5em;
+	}
+
+	h3.works {
+		width: 90%;
 	}
 
 	h4 {
@@ -2143,7 +2151,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 70%;
+			width: 90%;
 		}
 
 			.image.fit img {
